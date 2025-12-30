@@ -1,5 +1,7 @@
 # Hackintosh, Erying G660 ITX, Intel i7 12700H, AMD Radeon RX 6600M 8Gb and AirDrop
 
+<img width="2628" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/bfc47404-4e26-4839-93ff-40bdf8169513" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7.3)
